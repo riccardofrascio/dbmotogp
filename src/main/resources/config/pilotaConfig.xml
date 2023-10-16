@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pilotalist>
+    <pilota>
+        <idPilota>0</idPilota>
+        <nome>Marco</nome>
+        <cognome>Bezzecchi</cognome>
+        <dataNascita>2000-04-09</dataNascita>
+        <nazionalita>Italia</nazionalita>
+        <punteggioAttuale>0</punteggioAttuale>
+    </pilota>
+</pilotalist>

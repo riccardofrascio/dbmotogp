@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pistalist>
+    <pista>
+        <idPista>1</idPista>
+        <stato>Italia</stato>
+        <citta>Firenze</citta>
+        <indirizzo>Via moccia</indirizzo>
+        <lunghezza>1506</lunghezza>
+        <curveSx>10</curveSx>
+        <curveDx>8</curveDx>
+    </pista>
+</pistalist>
+
